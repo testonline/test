@@ -22,8 +22,15 @@ else
     echo $thumb_path = $thumbnail_path . $videoname . '.jpg';
 }
 
+echo "This is local first";
+
+
 echo "testing";a
 echo "testing123";
 
 echo "testing Done1";
 echo "testing Done";
+
+
+
+echo "This local last";
