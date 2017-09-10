@@ -21,3 +21,4 @@ else
     echo 'Thumbnail generated successfully';
     echo $thumb_path = $thumbnail_path . $videoname . '.jpg';
 }
+echo "testing";a
